@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @KaRat2137
-- 🌱 I’m currently learning JavaScript
 
 
 <!---
